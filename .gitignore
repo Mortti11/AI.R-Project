@@ -162,4 +162,9 @@ cython_debug/
 #.idea/
 
 # Ignore dataset folder
-/DeepLearning/thermal/
+
+/DeepLearning/Thermal_dataset/.checkpoints
+/DeepLearning/Thermal_dataset/ImageBind
+/DeepLearning/Thermal_dataset/thermal
+/Dataset/*
+/DeepLearning/SnowyDataset/Dataset
